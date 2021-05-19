@@ -1,4 +1,4 @@
-##Ticket Machine
+## Ticket Machine
 
 ## Introduction
 TicketMachine project models a ticket machine that issues
